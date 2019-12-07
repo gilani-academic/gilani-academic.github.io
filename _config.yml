@@ -1,0 +1,19 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Ammar Gilani
+tagline:          'Homepage'
+baseurl:          /
+
+author:
+  name:           'Ammar Gilani'
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
